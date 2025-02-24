@@ -1,0 +1,11 @@
+
+**********************************************************
+**
+**	This program should "introduce" itself to the user and state it's purpose,
+**	to calculate the perimeter and area of a square given the length of one side.
+**	The program should prompt the user to enter the length of one side of a square.
+**	It should calculate the perimeter and display the figure.  It should then
+**	calculate the area of the square and display that figure.  The program should
+**	then terminate.
+**	
+**********************************************************
