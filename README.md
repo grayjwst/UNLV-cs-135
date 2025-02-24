@@ -14,7 +14,7 @@ Some projects originally had some starter/template/boiler plate code that studen
 
 ## Roadmap
 
-- [ ] HW1 - Perimeter and Area of a Square
+- [x] HW1 - Perimeter and Area of a Square
 - [ ] HW2 - Electric Bill Calculator
 - [ ] HW3 - Cramer's Rule
 - [ ] HW4 - Volume and Surface Area of a Cone
