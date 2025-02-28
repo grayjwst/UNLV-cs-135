@@ -11,9 +11,15 @@
 
 int main() {
 
-  printf("how many KWHRS\n");
+  int KWHRS = 1;
+  printf("the bill for %d kilowatts is:\n" , KWHRS);
 
-
+  printf("\tThe base cost is %f\n" , KWHRS*0.61);
+  printf("\tCounty surcharge is %f\n" , KWHRS*0.095);
+  printf("\tcity tax is %f\n" , KWHRS*0.0325);
+  printf("\tstate fees 4.5\n");
+  printf("\ttotal is %f\n" , KWHRS*0.61+KWHRS*0.095+KWHRS*0.0325+4.5 );
+  
 
 
 
@@ -21,7 +27,3 @@ int main() {
 
 
 
-//int main() {
-  //printf("Hello, everybody! It is I, lovable, furry old Grover!\n");
-  //return 0;
-//}
