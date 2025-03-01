@@ -16,10 +16,9 @@ const float stateCharge = 4.50;
 
 int main() {
 
-  int KWHRS = 100.2; // doesn't do decimals?
-  printf("The bill for %d kilowatts is:\n" , KWHRS);
+  float KWHRS = 100.9; 
+  printf("The bill for %f kilowatts is:\n" , KWHRS);
 
-  // TODO: update equations to use constants and create new vars for each charge
 
   float base = KWHRS*price;
   printf("\tThe base cost is: %f\n" , base);
