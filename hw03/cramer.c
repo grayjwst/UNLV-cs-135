@@ -1,6 +1,6 @@
-
-
 #include <stdio.h>
+
+#include <math.h>
 
 int main() {
 
@@ -23,14 +23,16 @@ printf("%.0fx + %.0fy = %.0f\n" , d , e , f);
 
 
 float xValue = (c*e-b*f)/(a*e-b*d);
-printf("x = %.3f\n" , xValue);
+float absxValue = fabs(xValue);
+printf("x = %.3f\n" , absxValue);
 
 float yValue = (a*f-c*d)/(a*e-b*d);
-printf("y = %.3f\n", yValue);
+float absyValue = fabs(yValue);
+printf("y = %.3f\n", absyValue);
 
 
 
-
+return 0;
 
 }
 
