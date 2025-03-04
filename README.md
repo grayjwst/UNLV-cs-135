@@ -15,8 +15,8 @@ Some projects originally had some starter/template/boiler plate code that studen
 ## Roadmap
 
 - [x] HW1 - Perimeter and Area of a Square
-- [ ] HW2 - Electric Bill Calculator
-- [ ] HW3 - Cramer's Rule
+- [x] HW2 - Electric Bill Calculator
+- [x] HW3 - Cramer's Rule
 - [ ] HW4 - Volume and Surface Area of a Cone
 - [ ] HW5 - Quadratic Equation Solver
 - [ ] HW6 - University Class Scheduler
