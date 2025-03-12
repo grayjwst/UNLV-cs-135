@@ -1,8 +1,10 @@
-int main() {
-    #include <stdio.h>
-    #include <math.h>
-    #include <string.h> // so we can use strlen
-    
+
+#include <stdio.h>
+#include <math.h>
+#include <string.h> // so we can use strlen
+
+
+    int main() {
       
        float h; // height
        float d; // diameter
